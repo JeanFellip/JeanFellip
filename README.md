@@ -1,3 +1,3 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "banner.gif" width = "525px">
 
 # Sejam bem-vindos ao meu GitHub!
